@@ -7,7 +7,7 @@ from nltk.stem.porter import PorterStemmer
 import time
 
 
- nltk.download('stopwords')
+nltk.download('stopwords')
 
 ps = PorterStemmer()
 stop_words = set(stopwords.words('english'))
