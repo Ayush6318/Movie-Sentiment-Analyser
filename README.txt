@@ -16,4 +16,4 @@ Dataset:
 - IMDB Movie Reviews Dataset
 
 Live Demo:
-https://your-app-name.streamlit.app
+https://movie-sentiment-analyser-efuov6rkjkf9d9oveappn7.streamlit.app/
