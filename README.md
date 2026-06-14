@@ -47,5 +47,5 @@ Movie-Sentiment-Analyser/
 ```
 ## 📸 Application Preview
 
-![AI Research Assistant Interface](screenshots/app_frontpage.png)
+![AI Research Assistant Interface](app_frontpage.png)
 
