@@ -44,3 +44,8 @@ Movie-Sentiment-Analyser/
 ├── vectorizer.pkl     # Pre-calculated TF-IDF token vectorizer matrix
 ├── requirements.txt   # Environment dependency declarations
 └── README.md          # Technical documentation and repository profile page
+```
+## 📸 Application Preview
+
+![AI Research Assistant Interface](screenshots/app_frontpage.png)
+
